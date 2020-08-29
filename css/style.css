@@ -967,10 +967,3 @@
             font-size: 1.4em !important;
         }
     }
-    
-    #cpy-right text-center1,
-    p {
-        color: rgb(0, 0, 0);
-        font-size: 20px;
-        padding: 2px;
-    }

@@ -15,3 +15,40 @@
                     <div class="clearfix"></div>
                 </form>
             </div>
+
+
+
+php
+
+<?php
+
+$result="";
+
+if(isset($_POST['submit'])){
+    require 'phpmailer/PHPMailerAutoload.php';
+    $mail = new PHPMailer;
+
+    $mail->Host='smtp.gmail.com';
+    $mail->Port=587;
+    $mail->SMTPAuth=true;
+    $mail->SMTPSecure='tls';
+    $mail->Username='abdunnoor540@gmail.com';
+    $mail->password='max123456000000';
+
+    $mail->setFrom($_POST['email'],$_POST['name']);
+    $mail->addAddress('abdunnoor540@gmail.com');
+    $mail->addReplyTo($_POST['email'],$_POST['name']);
+
+    $mail->isHTML(true);
+    $mail->Subject='Form Submission: '.$_POST['subject'];
+    $mail->Body='<h1 align=center>Name :'.$_POST['name'].'<br>Email: '.$_POST['email'].'<br>Message: '.$_Post['msg'].'<h1>';
+
+    if(!$mail->send()){
+        $result="Something went wrong. Please try again.";
+    }
+    else{
+        $result="Thanks ".$_POST['name']." for contacting us.";
+    }
+}
+
+?>
