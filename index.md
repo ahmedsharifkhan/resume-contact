@@ -1,0 +1,98 @@
+# Resume - Start Bootstrap Theme
+
+**Clarence Taylor**
+
+![Profile Image](assets/img/profile.jpg)
+
+3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 · [name@email.com](mailto:name@email.com)
+
+I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
+
+[LinkedIn](#) | [GitHub](#) | [Twitter](#) | [Facebook](#)
+
+---
+
+## Experience
+
+### Senior Web Developer
+**Intelitec Solutions**
+*March 2013 - Present*
+
+Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User-generated content in real-time will have multiple touchpoints for offshoring.
+
+### Web Developer
+**Intelitec Solutions**
+*December 2011 - March 2013*
+
+Capitalize on low hanging fruit to identify a ballpark value-added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+
+### Junior Web Designer
+**Shout! Media Productions**
+*July 2010 - December 2011*
+
+Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximize the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+
+### Web Design Intern
+**Shout! Media Productions**
+*September 2008 - June 2010*
+
+Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after the installed base benefits. Dramatically visualize customer-directed convergence without revolutionary ROI.
+
+---
+
+## Education
+
+### University of Colorado Boulder
+**Bachelor of Science**
+*Computer Science - Web Development Track*
+*August 2006 - May 2010*
+GPA: 3.23
+
+### James Buchanan High School
+*Technology Magnet Program*
+*August 2002 - May 2006*
+GPA: 3.56
+
+---
+
+## Skills
+
+**Programming Languages & Tools**
+- HTML5
+- CSS3
+- JavaScript
+- Angular
+- React
+- Node.js
+- Sass
+- Less
+- WordPress
+- Gulp
+- Grunt
+- npm
+
+**Workflow**
+- Mobile-First, Responsive Design
+- Cross Browser Testing & Debugging
+- Cross Functional Teams
+- Agile Development & Scrum
+
+---
+
+## Interests
+
+Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.
+
+When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.
+
+---
+
+## Awards & Certifications
+
+- Google Analytics Certified Developer
+- Mobile Web Specialist - Google Certification
+- 1st Place - University of Colorado Boulder - Emerging Tech Competition 2009
+- 1st Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
+- 2nd Place - University of Colorado Boulder - Emerging Tech Competition 2008
+- 1st Place - James Buchanan High School - Hackathon 2006
+- 3rd Place - James Buchanan High School - Hackathon 2005
