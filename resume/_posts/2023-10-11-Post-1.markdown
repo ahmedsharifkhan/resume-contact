@@ -1,8 +1,19 @@
+---
+layout: post
+title:  "My Resume"
+date:   2023-10-11 04:04:07 +0600
+categories: jekyll update
+---
+
+
 # Resume - Start Bootstrap Theme
 
 **Clarence Taylor**
 
-![Profile Image](assets/img/profile.jpg)
+![Profile Image](assets/img/noor.jpeg)
+![Alt Text](https://support.hubstaff.com/wp-content/uploads/2019/08/good-pic.png){: width="300" height="200"}
+
+
 
 3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 · [name@email.com](mailto:name@email.com)
 
